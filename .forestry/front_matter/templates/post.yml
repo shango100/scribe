@@ -27,4 +27,5 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- content/how-to-exert-a-powerful-presence.md
 - content/how-to-recognize-someone-who-has-attained-maat.md
