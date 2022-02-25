@@ -2,7 +2,6 @@
 categories = ["hermetic principles in practice", "principle of mentality"]
 date = 2022-02-24T16:00:00Z
 description = ""
-draft = true
 image = "/images/shutterstock_1059981530.jpg"
 tags = ["Besouro", "hermetics", "principle of mentality"]
 title = "How to exert a powerful presence"
